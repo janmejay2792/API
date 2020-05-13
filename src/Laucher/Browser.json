@@ -1,0 +1,11 @@
+{
+	"setUp": [
+		"test_setUp_Android",
+		"test_setUp_Desktop"
+	],
+	"LauchToSetUp": "test_setUp_Desktop",
+	"URL": "https://www.lsac.org/",
+	"cookiesHandle": "CybotCookiebotDialogBodyLevelButtonAccept"
+}
+
+	

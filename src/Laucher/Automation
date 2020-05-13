@@ -1,0 +1,4 @@
+05/13/2020 11:59:09 PM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+05/13/2020 11:59:09 PM - SeleniumDriver - INFO: Element not appeared on the web page
+05/13/2020 11:59:23 PM - SeleniumDriver - INFO: Element not found with locator: CybotCookiebotDialogBodyLevelButtonAccept and  locatorType: id
+05/13/2020 11:59:23 PM - SeleniumDriver - INFO: Cannot click on the element with locator: CybotCookiebotDialogBodyLevelButtonAccept locatorType: id
